@@ -1,0 +1,8 @@
+$ cat github-branches
+* bug-fix-revert                75f1648 [origin/bug-fix-revert] Update pull request verification output
+  bug-fix-typo                  35e2955 [origin/bug-fix-typo] Fix README description
+  main                          06d4c1d [origin/main] Update first merge terminal output
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 75f1648 Update pull request verification output
+  remotes/origin/bug-fix-typo   35e2955 Fix README description
+  remotes/origin/main           06d4c1d Update first merge terminal output
